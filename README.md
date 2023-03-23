@@ -1,1 +1,4 @@
-# node-react-todo
+# Node-React TODO application
+
+
+

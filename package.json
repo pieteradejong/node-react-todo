@@ -1,0 +1,24 @@
+{
+  "name": "node-react-todo",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pieteradejong/node-react-todo.git"
+  },
+  "author": "Pieter A de Jong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pieteradejong/node-react-todo/issues"
+  },
+  "homepage": "https://github.com/pieteradejong/node-react-todo#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
